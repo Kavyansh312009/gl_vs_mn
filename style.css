@@ -1,0 +1,21 @@
+.heading{
+    color: red;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.button{
+    letter-spacing:3;
+    font-size: 25px;
+}
+img{
+    width: 250px;
+    height: 250px;
+
+}
+#gl{
+  width:200px ;
+  height:70px ;  
+}
+.div{
+    background-color: darkgray;
+}
